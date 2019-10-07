@@ -8,3 +8,7 @@
 
 ## For Android
 * SDK,NDK required.
+
+## Resource
+* Images and 3D models are in Assets and Resources.
+* Vuforia database is in Resources folder
