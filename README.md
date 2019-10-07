@@ -12,3 +12,6 @@
 ## Resource
 * Images and 3D models are in Assets and Resources.
 * Vuforia database is in Resources folder
+
+## Version
+* Unity3D 2018.4.10
