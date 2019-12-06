@@ -1,5 +1,5 @@
 # Multiple_AR_Objects
- Multiple AR objects on respective Image Recognition
+ Multiple AR objects on respective Image Target
 
 ## Vuforia Details.
 * Create an acoount on https://www.developer.vuforia.com
